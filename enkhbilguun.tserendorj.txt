@@ -1,1 +1,9 @@
 Assignment 3
+steps to starting assignment:
+1st step- go to the link provided on github.
+2nd fork from lambda school account to my own account
+3rd go terminal and find the directory where I want to copy the project
+4th change the branch into my name
+5th copy the project and start the copied directory on the VS code 
+6th make changes in the project and save
+7th 
